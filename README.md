@@ -1,4 +1,5 @@
 # vue-calculator
+Simple calculator app made with VueJS
 
 ## Project setup
 ```
